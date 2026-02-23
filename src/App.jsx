@@ -1,6 +1,6 @@
 import './App.css'
 import { Navbar } from './components/Navbar'
-import Pepe from './components/pepe'
+import Pepe from './components/Pepe'
 import Sobre from './components/Sobre'
 import SocialProof from './components/SocialProof'
 function App() {
